@@ -1,8 +1,9 @@
-﻿namespace MSharp.Code.Formatter.Tests
+﻿namespace Formatter.Tests
 {
     using System;
     using System.IO;
     using System.Linq;
+    using global::Formatter;
     using Microsoft.VisualStudio.TestTools.UnitTesting;
 
     /// <summary>

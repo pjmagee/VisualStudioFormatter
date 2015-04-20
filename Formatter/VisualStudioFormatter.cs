@@ -1,4 +1,4 @@
-﻿namespace MSharp.Code.Formatter
+﻿namespace Formatter
 {
     using System;
     using System.Collections.Generic;
